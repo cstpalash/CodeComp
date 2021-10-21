@@ -11,9 +11,13 @@
     <Folder Include="wwwroot\img\" />
     <Folder Include="Views\Rules\" />
     <Folder Include="Views\Leaderboard\" />
+    <Folder Include="Views\GetStarted\" />
+    <Folder Include="Views\ApiDoc\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Rules\" />
     <None Remove="Views\Leaderboard\" />
+    <None Remove="Views\GetStarted\" />
+    <None Remove="Views\ApiDoc\" />
   </ItemGroup>
 </Project>
