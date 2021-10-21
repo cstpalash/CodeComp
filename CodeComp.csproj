@@ -9,5 +9,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="wwwroot\img\" />
+    <Folder Include="Views\Rules\" />
+    <Folder Include="Views\Leaderboard\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\Rules\" />
+    <None Remove="Views\Leaderboard\" />
   </ItemGroup>
 </Project>
