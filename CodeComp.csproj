@@ -13,11 +13,15 @@
     <Folder Include="Views\Leaderboard\" />
     <Folder Include="Views\GetStarted\" />
     <Folder Include="Views\ApiDoc\" />
+    <Folder Include="Views\Faq\" />
+    <Folder Include="Views\Register\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Rules\" />
     <None Remove="Views\Leaderboard\" />
     <None Remove="Views\GetStarted\" />
     <None Remove="Views\ApiDoc\" />
+    <None Remove="Views\Faq\" />
+    <None Remove="Views\Register\" />
   </ItemGroup>
 </Project>
